@@ -1,0 +1,1 @@
+Create a database called zf2, then add a user, then run table-setup.sql on it to add the tables with dummy data.
